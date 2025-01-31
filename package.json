@@ -1,0 +1,22 @@
+{
+  "name": "generaltabs",
+  "version": "1.0.0",
+  "description": "General Training in Node / React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humbertosouza/generaltabs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/humbertosouza/generaltabs/issues"
+  },
+  "homepage": "https://github.com/humbertosouza/generaltabs#readme",
+  "dependencies": {
+    "next": "^15.1.6"
+  }
+}
