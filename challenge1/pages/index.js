@@ -9,7 +9,6 @@ function Home(){
 		<h1>Para Mamae e Julie</h1>
 			<div>Papai fez esse site para treinar e dizer que ama voces!</div>
 			<div>Mamae, se voce ama o papai, da uma risadinha.</div>
-			<Image src="public/Deia-Beto-Julie-Montreal-2024-12-27.jpg" alt="Deia-Beto-Julie-Montreal-2024-12-27.jpg" width={500} height={600}/>
 		</div>);
 }
 
