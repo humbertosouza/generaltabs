@@ -1,6 +1,8 @@
 import React from 'react';
 import Image from 'next/image';
 
+// Added a comment to test git
+// Added another comment to test git
 function Home(){
 	return (
 		<div>
