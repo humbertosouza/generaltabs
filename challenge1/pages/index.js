@@ -84,12 +84,15 @@ function Home() {
       </Head>
 
       <header>
-        <Image
-          src="/logo_variant_1.png"
-          alt="usacanada logo"
-          width={160}
-          height={40}
-        />
+        <div style={{ width: "120px", height: "120px", position: "relative" }}>
+          <Image
+            src="/logo_variant_1.png"
+            alt="usacanada logo"
+            fill
+            style={{ objectFit: "contain" }}
+          />
+        </div>
+
         <nav>
           <a href="/real-estate">Real Estate</a>
           <a href="/insurance">Insurance</a>

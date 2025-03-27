@@ -1,10 +1,11 @@
 import React from "react";
 import Image from "next/image";
+import Head from "next/head";
 
 // Added a comment to test git
 // Added another comment to test git
 // Added a new comment to redeploy it
-function Home() {
+function IndexJulie() {
   return (
     <div>
       <h1>Para Mamae e Julie!</h1>
@@ -20,4 +21,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default IndexJulie;
